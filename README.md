@@ -1,6 +1,4 @@
 # Arbitrage Challenge 3
-
-# USAGE
 # This is an application on past pricing of Coinbase VS. Bitstamp to look for possible arbirtrage bewteen the two exchanges. We use data collection and analysis to see if there are any arbitrage opportunities.
 
 #________________________________________________________________________________________________________________________________________________________________________
