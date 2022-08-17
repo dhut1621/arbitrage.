@@ -1,15 +1,15 @@
 # Arbitrage Challenge 3
-#This is an application on past pricing of Coinbase VS. Bitstamp to look for possible arbirtrage bewteen the two exchanges. We use data collection and analysis to see if there are any arbitrage opportunities.
+This is an application on past pricing of Coinbase VS. Bitstamp to look for possible arbirtrage bewteen the two exchanges. We use data collection and analysis to see if there are any arbitrage opportunities.
 
 
 # USAGE
 
-#This is a python application used in the jupyter lab platform. To use just clone from repository and run jupyter lab from git bash.
+This is a python application used in the jupyter lab platform. To use just clone from repository and run jupyter lab from git bash.
 
 
 # EXAMPLES
 
-#Here on some examples in the form of graphs to show Coinbase VS Bitsamp data to see Arbitrage between the two exchanges.
+Here on some examples in the form of graphs to show Coinbase VS Bitsamp data to see Arbitrage between the two exchanges.
 
 
 
