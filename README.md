@@ -12,17 +12,23 @@
 
 # EXAMPLES
 
-# Here on some examples in Graph for to Coinbase VS Bitsamp data to see Arbitrage
+# Here on some examples in the form of graphs to show Coinbase VS Bitsamp data to see Arbitrage between the two exchanges.
 
 
 
-
+# Bitstamp VS Coinbase 1 Day
 ![image](https://user-images.githubusercontent.com/107014664/185183677-912e2733-73cf-4cff-9f4f-3b2bd8e4267f.png)
 
 
 
 
-
+# Bitstamp VS Coinbase 3 month period
 ![image](https://user-images.githubusercontent.com/107014664/185184065-d77bee94-6c4c-49ac-bef3-0834e2f58909.png)
+
+# Contrubitors
+David Hutsell
+
+# LICENSE
+Fin Tech UW
 
 
